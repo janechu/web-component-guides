@@ -1,0 +1,16 @@
+{
+  "name": "web-component-guides",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "./projects/*"
+  ],
+  "description": "A variety of guides for web component use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["web components"],
+  "author": "Jane Chu",
+  "license": "MIT"
+}
